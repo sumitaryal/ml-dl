@@ -160,7 +160,6 @@ cython_debug/
 #.idea/
 
 # Datasets 
-/Logistic_Regression/data/
-/Convolucional_Neural_Network/data/
+/*/data/
 
 .DS_Store
